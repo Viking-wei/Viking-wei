@@ -7,7 +7,7 @@
 
 ## Untouchable
 
-![Untouchable](Resources\untouchable.png)
+![Untouchable](Resources/untouchable.png)
 **Info:** 2023 CIGA project, a 2D puzzle gamne with unique gravity controlle system. Player needs to change the gravity move character to avoid the obstacles and reach the destination while some obstacles can be moved by gravity change.
 
 **Award:** ACG station the most popular game
