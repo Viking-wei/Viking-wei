@@ -27,6 +27,7 @@
 **Info:** 2023 Spring CUC GameCreate, a 3D roll playing game with a unique story. Player needs to explore the price of eternal life and have to make a decision at the end of the game.
 
 **My most important work:** Because the this game have huge amount of dialogues, I designed a dialogue system simplifying the process of adding dialogues and choices. Just read the dialogue from json and the system will automatically generate the dialogue and choices.
+
 ![Dialogue](Resources/jsonfile.png)
 
 [Video](https://www.bilibili.com/video/BV1Do4y1M7qZ/)
