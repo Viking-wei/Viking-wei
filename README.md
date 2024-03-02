@@ -2,6 +2,25 @@
 
 - 🏫**School：** Communication University of China
 - 📚**Major：** Digital Media Technology
+- 💻**Languages:** *C++* *C#* *HLSL*
+- 📘**Engine：** Unity
+
+# Projects
+
+## Volumetric Light
+
+![Volumetric Light](Resources/volumetriclightDemo.gif)
+![Volumetric Light](Resources/volumetriclight.png)
+
+**Info:** A volumetric light system for Unity.Surport directlight and spotlight, as spotlight have another version for better performence and it will be updated soon. The main strategy: RayMarching+BilateralFiltering+TAA.
+
+**Performence:** RTX3060 1080p perpixel15steps ~1.1ms
+
+## Proceedual Grass
+
+![Proceedual Grass](Resources/proceedualGrassDemo.gif)
+
+About this project I have written a blog in [Zhihu](https://zhuanlan.zhihu.com/p/678303909)
 
 # Gamejam
 
