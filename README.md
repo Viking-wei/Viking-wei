@@ -16,9 +16,9 @@
 
 **Performence:** RTX3060 1080p perpixel15steps ~1.1ms
 
-## Proceedual Grass
+## Procedual Grass
 
-![Proceedual Grass](Resources/ProceedualGrassDemo.gif)
+![Procedual Grass](Resources/ProcedualGrassDemo.gif)
 
 About this project I have written a blog in [Zhihu](https://zhuanlan.zhihu.com/p/678303909)
 
