@@ -9,7 +9,7 @@
 
 ## Volumetric Light
 
-![Volumetric Light](Resources/volumetriclightDemo.gif)
+![Volumetric Light Demo](Resources/volumetriclightDemo.gif)
 ![Volumetric Light](Resources/volumetriclight.png)
 
 **Info:** A volumetric light system for Unity.Surport directlight and spotlight, as spotlight have another version for better performence and it will be updated soon. The main strategy: RayMarching+BilateralFiltering+TAA.
