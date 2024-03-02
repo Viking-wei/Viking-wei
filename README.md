@@ -9,8 +9,8 @@
 
 ## Volumetric Light
 
-![Volumetric Light Demo](Resources/volumetriclightDemo.gif)
-![Volumetric Light](Resources/volumetriclight.png)
+![Volumetric Light Demo](Resources/VolumetriclightDemo.gif)
+![Volumetric Light](Resources/Volumetriclight.png)
 
 **Info:** A volumetric light system for Unity.Surport directlight and spotlight, as spotlight have another version for better performence and it will be updated soon. The main strategy: RayMarching+BilateralFiltering+TAA.
 
@@ -18,7 +18,7 @@
 
 ## Proceedual Grass
 
-![Proceedual Grass](Resources/proceedualGrassDemo.gif)
+![Proceedual Grass](Resources/ProceedualGrassDemo.gif)
 
 About this project I have written a blog in [Zhihu](https://zhuanlan.zhihu.com/p/678303909)
 
