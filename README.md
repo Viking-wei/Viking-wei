@@ -16,9 +16,9 @@
 
 **Performence:** RTX3060 1080p perpixel15steps ~1.1ms
 
-## Procedual Grass
+## Procedural Grass
 
-![Procedual Grass](Resources/ProcedualGrassDemo.gif)
+![Procedual Grass](Resources/ProceduralGrassDemo.gif)
 
 About this project I have written a blog in [Zhihu](https://zhuanlan.zhihu.com/p/678303909)
 
@@ -31,7 +31,7 @@ About this project I have written a blog in [Zhihu](https://zhuanlan.zhihu.com/p
 
 **Award:** ACG station the most popular game
 
-**How to Designe:**
+**How to Design:**
 ![Design](Resources/design1.jpg)
 ![Design](Resources/design2.jpg)
 
@@ -45,7 +45,7 @@ About this project I have written a blog in [Zhihu](https://zhuanlan.zhihu.com/p
 
 **Info:** 2023 Spring CUC GameCreate, a 3D roll playing game with a unique story. Player needs to explore the price of eternal life and have to make a decision at the end of the game.
 
-**My most important work:** Because the this game have huge amount of dialogues, I designed a dialogue system simplifying the process of adding dialogues and choices. Just read the dialogue from json and the system will automatically generate the dialogue and choices.
+**My most important work:** Because this game have huge amount of dialogues, I designed a dialogue system simplifying the process of adding dialogues and choices. Just read the dialogue from json and the system will automatically generate the dialogue and choices.
 
 ![Dialogue](Resources/jsonfile.png)
 
