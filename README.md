@@ -10,6 +10,10 @@
 <img src="Resources/Atmosphere .gif" alt="SpotLightVolumetric" width="500" height="250">
 </div>
 
+**概述：** 使用compute shader预计算大气衰减和散射，然后指定shader中采样这两张rt和csm，完成简单大气效果的处理。
+
+**性能：** 使用compute shader预计算的rt分辨率不高，只有256*256，性能消耗较小。在raymarching采样中，占主要性能消耗的是csm的采样，经过测试在1080p的分辨率下，每像素32步，采样2k的csm，性能消耗在1.5ms左右。
+
 ## 聚光灯体积光
 
 <div align=center>
