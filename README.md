@@ -20,6 +20,9 @@
 <img src="Resources/VolumetricLight.png" alt="SpotLightVolumetric" width="500" height="250">
 </div>
 
+**概述：** 在聚光灯周围生成一圈mesh，从mesh表面向内部进行raymarching，同时在采样世界噪声，在mesh表面生成体积光效果。
+
+**性能：** 在1080p的分辨率下，每盏灯的消耗极低，不到0.1ms。
 
 ## 程序化草地
 
@@ -30,8 +33,14 @@
 知乎主页有详细介绍
 [知乎](https://zhuanlan.zhihu.com/p/678303909)
 
-## 壳层苔藓
+## 壳层霉斑
+<div align=center>
+<img src="Resources/shell.png" alt="suibian" width="500" height="250">
+</div>
 
+**概述：** 运用壳层毛发技术来表现具有立体感的霉斑，通过特定mask控制霉斑生长的形状，指定层叠的层数和颜色，最终实现立体感的霉斑效果。
+
+**性能：** 在1080p分辨率下，生成10*10大小的霉斑区域，层叠层数为40，性能消耗为1ms左右。由于每层都是transparent的，所以无法使用GPU instancing，感觉性能消耗较大，小范围使用较为合适。
 
 # Gamejam
 
