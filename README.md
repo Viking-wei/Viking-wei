@@ -1,4 +1,4 @@
-<!-- ### 座驾麒麟
+### 座驾麒麟水材质
 <div align=center>
 <img src="Resources/座驾麒麟.gif" alt="性能表现" width="608" height="640">
 </div>
@@ -12,13 +12,23 @@
 
 **技术方案：** 多层面片代替raymarching实现云层流动与七彩变换
 
+### 低消耗水晶材质
+<div align=center>
+<img src="Resources/水晶.gif" alt="性能表现" width="529" height="546">
+</div>
 
-### 座驾马
+
+### 客户端平面反射预研
+<div align=center>
+<img src="Resources/平面反射.gif" alt="性能表现" width="1366" height="720">
+</div>
+
+### 座驾马身体多层材质
 <div align=center>
 <img src="Resources/座驾马.gif" alt="性能表现" width="608" height="640">
 </div>
 
-### 帝俊boss
+### Boss身体&背景材质
 <div align=center>
 <img src="Resources/帝俊boss.gif" alt="性能表现" width="747" height="667">
 </div>
@@ -37,8 +47,6 @@
 **技术方案：** 布料：引入布料标志性的Sheen以及各向异性特征，摒弃耗时且效果不明显的fiber、transmition特性，引入了彩色镀膜等一些特殊效果。皮肤：着重保留皮肤3s和双层高光，3s实现方式为预积分采样，同时为了凸显体积感，边缘做了渐暗处理。两者共用一套环境光计算，并有一些简化处理。
 
 -----------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------ -->
 
 ### 大气散射
 <div align=center>
